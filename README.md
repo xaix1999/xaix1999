@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xaix1999
-- 👀 I’m interested in Bash && C scripting/programming!
-- 🌱 I’m currently learning (surprise!) Bash and C.
+- 👀 I’m interested in Bash & CCNA!
+- 🌱 I’m currently learning (surprise!) Bash and CCNA.
 - 💞️ I’m looking to collaborate on ... I'm not sure yet but I will look for something.
 - 📫 How to reach me ... You can email me @ xaix1999@protonmail.com .
 
